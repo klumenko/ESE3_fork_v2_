@@ -32,7 +32,7 @@ int main(void) {
 
     }
     wait(NULL);
-    printd("Nonno : il figlio è terminato");
+    printf("Nonno : il figlio è terminato");
 
 
     return 0;
